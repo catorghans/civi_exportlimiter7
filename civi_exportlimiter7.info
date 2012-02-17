@@ -1,0 +1,7 @@
+name = Civicrm Export Limiter
+description = Civicrm Export Limiter
+dependencies[] = civicrm
+package = CiviCRM
+core = 7.x
+version = 3.1
+
